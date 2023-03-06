@@ -21,6 +21,6 @@ func main() {
 	var numbers = []int{2, 3, 4, 3, 4, 2, 5}
 	var min, max = getMinMax(numbers)
 
-	//Secara default, fmt.Printf %v akan mencetak string dengan tanda kutip dan slice atau array dengan kurung siku.
+	//Secara default, fmt.Printf %v digunakan untuk mencetak variabel apa adanya, tanpa memperhatikan tipe data dari variabel tersebut.
 	fmt.Printf("data :%v\nmin :%v\nmax :%v\n", numbers, min, max)
 }
