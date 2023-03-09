@@ -12,3 +12,9 @@ func main() {
 
 	//fmt.Println("baris ini tidak akan dieksekusi")
 }
+
+// func main (){
+// 	var nama string = ""
+// 	fmt.Print("masukkan nama : ", nama)
+// 	fmt.Scanln(&nama)
+// }
