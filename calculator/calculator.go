@@ -126,8 +126,6 @@ func main() {
 		}
 	}
 
-	
-
 	fmt.Println("History:")
 	if len(history) > 0 {
 		fmt.Printf("start number = %v\n", history[0].StartNumber)
