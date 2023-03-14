@@ -5,7 +5,7 @@ https://github.com/novalagung/dasarpemrogramangolang
 
 https://github.com/novalagung/dasarpemrogramangolang-example
 
-dan penerapan pada https://leetcode.com/dimasyudhana/
+dan penerapan pada https://www.hackerrank.com/dimas_yudhana
 
 Semoga saya bisa paham dan fasih dalam 3 bulan mendatang.
 
